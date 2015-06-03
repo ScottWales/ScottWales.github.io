@@ -5,3 +5,6 @@
 # Jekyll generated files
 _site
 .sass-cache
+
+# Drafts
+_drafts
