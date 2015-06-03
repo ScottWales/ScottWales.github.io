@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm Scott Wales, a scientific programmer working at the ARC Centre of
+Excellence for Climate Systems Science as part of the Computational Modelling
+Systems team.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Our goal is to help the Australian climate research community by assisting with
+programming skills, training and creating new tools and services.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My particular interests are in the UK Met Offices's Unified Model, the
+atmospheric model used by the Australian climate model ACCESS; developing cloud
+services on the NCI and NeCTAR cloud infrastructures; and improving the ways
+that scientists write code.
