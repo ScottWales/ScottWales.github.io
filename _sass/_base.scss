@@ -148,7 +148,13 @@ pre {
     }
 }
 
-
+pre > code:before {
+    content: attr(data-lang);
+    float:right;
+    display: block;
+    color: grey;
+    text-align: right;
+}
 
 /**
  * Wrapper
