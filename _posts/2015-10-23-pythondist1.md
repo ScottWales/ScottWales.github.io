@@ -86,7 +86,7 @@ version    = describe.communicate()[0].decode('utf-8').strip()
 
 # Most recent release
 describe   = Popen(['git','describe','--abbrev=0'],stdout=PIPE)
-version    = describe.communicate()[0].decode('utf-8').strip()
+release    = describe.communicate()[0].decode('utf-8').strip()
 
 name       = 'ARCCSSive'
 author     = 'Scott Wales'
