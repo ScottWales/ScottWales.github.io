@@ -8,3 +8,6 @@ _site
 
 # Drafts
 _drafts
+
+# Editor files
+*.bak
